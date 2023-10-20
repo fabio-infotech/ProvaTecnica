@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Inativa__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Contas invativas 
+
+- Que não possua tarefas nos últimos 90 dias
+- Que não possua oportunidade ganha nos últimos 120 dias
+- Que não possua oportunidade em negociação</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Contas invativas</inlineHelpText>
+    <label>Inativa</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
